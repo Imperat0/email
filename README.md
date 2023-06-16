@@ -1,7 +1,9 @@
 Projeto Email
+
 Microservice de envio de email
 
 Desenvolvido com Java 17 
+
 Spring Boot: 3.1.0
 
 Depedências
